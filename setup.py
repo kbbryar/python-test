@@ -1,1 +1,1 @@
-echo "basic setup"
+print("basic setup")

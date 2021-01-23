@@ -8,6 +8,6 @@ setup(
     url="https://github.com/kbbryar/python-test.git",
     packages=['simpleclass'],
     scripts=['scripts/simpleclass.py'],
-    package_dir = {"simpleclass": "scripts"}
+    package_dir = {"simpleclass": "scripts"},
     license='LICENSE.txt'
 )
